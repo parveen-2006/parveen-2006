@@ -47,8 +47,8 @@
 
 ## 🌐 Connect With Me:
 <p align="center">
-<a href="https://linkedin.com/in/prashant-kumar-68408331b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-<a href="mailto:prashantkumar4216@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/parveen-kumar-0012063b0/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+<a href="mailto:pavanbaghel2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white"/></a>
 </p>
 

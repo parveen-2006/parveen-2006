@@ -87,22 +87,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrashantKumar-5014&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PrashantKumar-5014&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantKumar-5014&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🏆 Achievements
 🏅 Full Stack Developer Certification — IFDA (A++)  
 🚀 Built multiple real-world MERN projects  
@@ -125,11 +109,5 @@
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PrashantKumar-5014&icon=0&color=0" />
-</p>
-
----
 
 <h3 align="center">🔥 "Code. Build. Deploy. Repeat." 🚀</h3>

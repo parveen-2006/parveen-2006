@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Parveen</h1>
+<h1 align="center">Hey 👋, I'm Parveen</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | Building Scalable Web Apps</h3>
 
 <p align="center">
